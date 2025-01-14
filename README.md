@@ -1,7 +1,7 @@
 # Planilhas-Inteligentes
 
 <p align="center">
-    <img width="300" src="(https://github.com/alehossoe/Planilhas-Inteligentes/blob/0ccc024df925b068fa23e25253c2984d5870ef09/Imagem_planilha.webp)">
+    <img width="300" src="(Imagem_planilha.webp">
 </p>
 
 Projeto com o objetivo de organizar sua vida Financeira com Planilhas Inteligentes e IA.
