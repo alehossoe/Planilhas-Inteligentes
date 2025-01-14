@@ -1,6 +1,6 @@
 # Planilhas-Inteligentes
 <p align="center">
-    <img width="300" src="image.webp">
+    <img width="300" src="[image.webp](https://github.com/alehossoe/Planilhas-Inteligentes/blob/0ccc024df925b068fa23e25253c2984d5870ef09/Imagem_planilha.webp)">
 </p>
 
 # Podcast NA MARGEM DA LEI  
