@@ -4,9 +4,7 @@
     <img width="300" src="(https://github.com/alehossoe/Planilhas-Inteligentes/blob/0ccc024df925b068fa23e25253c2984d5870ef09/Imagem_planilha.webp)">
 </p>
 
-# Podcast NA MARGEM DA LEI  
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA.
+Projeto com o objetivo de organizar sua vida Financeira com Planilhas Inteligentes e IA.
 
 <a href="https://github.com/alehossoe/prompts-for-podcast-generate-by-ia/blob/32194c88dddae2ef4d73fa95f74af969500614bf/Podcast_Margem%20da%20Lei.mp3"> 📕Clique aqui para ouvir
 
